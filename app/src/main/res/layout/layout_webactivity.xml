@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:id="@+id/toolbarmain"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/colorFB"
+            app:popupTheme="@style/AppTheme.PopupOverlay">
+            <ImageView
+                android:layout_width="50dp"
+                android:id="@+id/btnBack"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_arrow_back_black_24dp" />
+            <ImageView
+                android:layout_width="50dp"
+
+                android:layout_height="match_parent"
+                android:id="@+id/btnForward"
+                android:src="@drawable/ic_arrow_forward_black_24dp" />
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_gravity="end"
+                android:id="@+id/btnDownload"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_file_download_black_24dp" />
+            <TextView
+                android:textSize="20sp"
+                android:id="@+id/txtTitle"
+                android:layout_gravity="end"
+                android:layout_width="150dp"
+                android:layout_height="27dp"/>
+
+
+
+        </androidx.appcompat.widget.Toolbar>
+
+
+    </com.google.android.material.appbar.AppBarLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+
+            android:id="@+id/edtLink"
+          android:hint="Nhập Linhk"
+            android:textSize="15sp"
+            android:text="http://www.nhaccuatui.com"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.1" />
+
+        <Button
+            android:id="@+id/btnEnter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="oke" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:orientation="horizontal">
+
+        <ProgressBar
+            android:id="@+id/myProgressBar"
+            style="@style/Base.Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

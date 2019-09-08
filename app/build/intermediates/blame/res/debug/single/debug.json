@@ -1,0 +1,938 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cancel_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cancel_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_dialog.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\4e049921190e32db269530e7daee9c99\\core-1.2.0-alpha04\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_no.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_no.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pause_circle_filled_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pause_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cancel_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cancel_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_no.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_no.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iconfile.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\drawable\\iconfile.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pause_circle_filled_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pause_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_forward_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_forward_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_subheader.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_play_circle_filled_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_play_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_file_download_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_file_download_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_photo_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_photo_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_play_circle_filled_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_play_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_insert_drive_file_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_insert_drive_file_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_favorite_black_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_favorite_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\4e049921190e32db269530e7daee9c99\\core-1.2.0-alpha04\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_replay_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_replay_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\4e049921190e32db269530e7daee9c99\\core-1.2.0-alpha04\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iconhtml.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\drawable\\iconhtml.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_favorite.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\layout\\fragment_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\4e049921190e32db269530e7daee9c99\\core-1.2.0-alpha04\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\4e049921190e32db269530e7daee9c99\\core-1.2.0-alpha04\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cancel_black_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cancel_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pause_circle_filled_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pause_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_play_circle_filled_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_play_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_no.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_no.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_play_circle_filled_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_play_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_library_music_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_library_music_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\4e049921190e32db269530e7daee9c99\\core-1.2.0-alpha04\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_insert_drive_file_black_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_insert_drive_file_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cancel_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cancel_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout\\mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_web_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_web_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_replay_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_replay_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_file_download_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_file_download_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_insert_drive_file_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_insert_drive_file_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pause_circle_filled_black_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pause_circle_filled_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_photo_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_photo_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_insert_drive_file_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_insert_drive_file_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cancel_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cancel_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weblogo2.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\drawable\\weblogo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_dialog_download.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\layout\\layout_dialog_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_insert_drive_file_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_insert_drive_file_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_replay_black_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_replay_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\menu_super_menu.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\menu\\super_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_photo_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_photo_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_library_music_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_library_music_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_back_black_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_password_icon.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_web_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_web_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cancel_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cancel_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_check_menu_2.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\drawable\\custom_check_menu_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_photo_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_photo_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_forward_black_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_forward_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_library_music_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_library_music_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\4e049921190e32db269530e7daee9c99\\core-1.2.0-alpha04\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_file_download_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_file_download_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_shakingbell.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\layout\\shakingbell.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_favorite_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_web_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_web_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_fp_main_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\c4638b77a56d67761ad81ebf906af668\\folderpicker-2.4\\res\\layout\\fp_main_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_video.jpg.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\drawable\\video.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_file_download_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_file_download_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\4e049921190e32db269530e7daee9c99\\core-1.2.0-alpha04\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favorite_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_forward_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_forward_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_play_circle_filled_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_play_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_black_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_library_music_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_library_music_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\4e049921190e32db269530e7daee9c99\\core-1.2.0-alpha04\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_download_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_file_download_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_play_circle_filled_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_play_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pause_circle_filled_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pause_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iconphoto.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\drawable\\iconphoto.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_fp_filerow.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\c4638b77a56d67761ad81ebf906af668\\folderpicker-2.4\\res\\layout\\fp_filerow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_forward_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_forward_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_download.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\layout\\row_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_webactivity.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\layout\\layout_webactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_favorite_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_link_download.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\layout\\row_link_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_replay_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_replay_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_library_music_black_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_library_music_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_no.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_no.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_icon.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add_black_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_replay_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_replay_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_photo_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_photo_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cancel_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cancel_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_photo_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_photo_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_text.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_forward_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_forward_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_replay_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_replay_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_file_download_black_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_file_download_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_web_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_web_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_insert_drive_file_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_insert_drive_file_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_photo_black_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_photo_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_library_music_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_library_music_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_check_menu_text.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\drawable\\custom_check_menu_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_insert_drive_file_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_insert_drive_file_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_main_chinh.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\layout\\layout_main_chinh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\4e049921190e32db269530e7daee9c99\\core-1.2.0-alpha04\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pause_circle_filled_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pause_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\4e049921190e32db269530e7daee9c99\\core-1.2.0-alpha04\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_web_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_web_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_web_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_web_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favorite_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pause_circle_filled_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pause_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_forward_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_forward_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_web_black_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_web_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_library_music_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_library_music_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_error.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\drawable\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iconauido.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\drawable\\iconauido.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_forward_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_forward_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_replay_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_replay_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_no.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_no.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_navigation_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\ed2f853e9b945c99c2db183378227210\\material-1.0.0\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_file_download_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_file_download_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\4e049921190e32db269530e7daee9c99\\core-1.2.0-alpha04\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_play_circle_filled_black_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_play_circle_filled_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_favorite_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_favorite_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_no.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_no.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_no.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_no.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\6b73224d4e79a3330cf8a4c0ab85c208\\appcompat-1.0.2\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\DownloadManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search_black_24dp.png"
+    }
+]

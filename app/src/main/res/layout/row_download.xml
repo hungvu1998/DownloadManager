@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:cardCornerRadius="8dp"
+    android:layout_marginStart="8dp"
+    android:layout_marginEnd="8dp"
+    android:layout_marginTop="4dp"
+    app:cardElevation="2dp"
+    app:cardUseCompatPadding="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/imgAnh"
+            android:padding="5dp"
+            android:layout_width="70dp"
+            android:layout_gravity="center"
+            android:src="@drawable/fp_file"
+            android:layout_height="70dp"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="8dp">
+                <ImageView
+                    android:id="@+id/btnAction"
+                    android:src="@drawable/ic_cancel_black_24dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintTop_toTopOf="@id/fileName"
+                    app:layout_constraintBottom_toBottomOf="@id/fileName"
+                    app:layout_constraintEnd_toStartOf="@id/btnStop"
+                    android:layout_marginEnd="16dp"
+                    android:layout_marginRight="16dp"
+                    tools:ignore="ContentDescription" />
+                <ImageView
+                    android:id="@+id/btnStop"
+                    android:src="@drawable/ic_cancel_black_24dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintTop_toTopOf="@id/fileName"
+                    app:layout_constraintBottom_toBottomOf="@id/fileName"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginRight="8dp"
+                    tools:ignore="ContentDescription" />
+                <TextView
+                    android:id="@+id/fileName"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_margin="8dp"
+                    android:textColor="#000"
+                    android:textSize="15sp"
+                    android:text="file name"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintStart_toStartOf="parent" />
+                <ProgressBar
+                    app:layout_constraintTop_toBottomOf="@id/fileName"
+                    android:layout_margin="8dp"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/progress"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:max="100"
+                    android:progress="0"/>
+                <TextView
+                    android:id="@+id/sizeProgress"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:textColor="#000"
+                    android:textSize="10sp"
+                    android:text="0 bytes of 0 bytes"
+                    app:layout_constraintStart_toStartOf="@id/progress"
+                    app:layout_constraintTop_toBottomOf="@id/progress"/>
+                <TextView
+                    android:id="@+id/percentProgress"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:textColor="#000"
+                    android:text="0%"
+                    android:textSize="10sp"
+                    app:layout_constraintEnd_toEndOf="@id/progress"
+                    app:layout_constraintTop_toBottomOf="@id/progress"
+                    />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</androidx.cardview.widget.CardView>

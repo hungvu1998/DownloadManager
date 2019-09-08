@@ -1,0 +1,100 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.downloadmanager"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:4:5-66
+11-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:5:5-79
+12-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:5:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:6:5-80
+13-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:6:22-78
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:7:5-78
+14-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:7:22-76
+15
+16    <application
+16-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:9:5-40:19
+17        android:allowBackup="true"
+17-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:10:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.2.0-alpha04] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\4e049921190e32db269530e7daee9c99\core-1.2.0-alpha04\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:11:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:12:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:13:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:14:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme.NoActionBar" >
+25-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:15:9-52
+26        <activity
+26-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:17:9-21:20
+27            android:name="com.example.downloadmanager.PopUpAddLink"
+27-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:17:19-47
+28            android:configChanges="orientation|screenSize|keyboardHidden"
+28-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:18:13-74
+29            android:theme="@style/Theme.AppCompat.Light.Dialog" >
+29-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:19:13-64
+30        </activity>
+31        <activity
+31-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:22:9-25:20
+32            android:name="com.example.downloadmanager.WebViewActivity"
+32-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:22:19-50
+33            android:configChanges="orientation|screenSize|keyboardHidden" >
+33-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:23:13-74
+34        </activity>
+35        <activity android:name="com.example.downloadmanager.test" >
+35-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:26:9-28:20
+35-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:26:19-39
+36        </activity>
+37        <activity
+37-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:30:9-38:20
+38            android:name="com.example.downloadmanager.TrangChuActivity"
+38-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:30:19-51
+39            android:configChanges="orientation|screenSize|keyboardHidden" >
+39-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:31:13-74
+40            <intent-filter>
+40-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:33:13-37:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:34:17-69
+41-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:34:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:36:17-77
+43-->C:\Users\Admin\Desktop\DownloadManager\app\src\main\AndroidManifest.xml:36:27-74
+44            </intent-filter>
+45        </activity>
+46        <activity
+46-->[lib.kashif:folderpicker:2.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\c4638b77a56d67761ad81ebf906af668\folderpicker-2.4\AndroidManifest.xml:15:9-17:52
+47            android:name="lib.folderpicker.FolderPicker"
+47-->[lib.kashif:folderpicker:2.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\c4638b77a56d67761ad81ebf906af668\folderpicker-2.4\AndroidManifest.xml:16:13-57
+48            android:screenOrientation="portrait" />
+48-->[lib.kashif:folderpicker:2.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\c4638b77a56d67761ad81ebf906af668\folderpicker-2.4\AndroidManifest.xml:17:13-49
+49
+50        <provider
+50-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\bb20fb730afaf8b5c619d3cd71719b4e\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+51            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+51-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\bb20fb730afaf8b5c619d3cd71719b4e\lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+52            android:authorities="com.example.downloadmanager.lifecycle-process"
+52-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\bb20fb730afaf8b5c619d3cd71719b4e\lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+53            android:exported="false"
+53-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\bb20fb730afaf8b5c619d3cd71719b4e\lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+54            android:multiprocess="true" />
+54-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\bb20fb730afaf8b5c619d3cd71719b4e\lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+55    </application>
+56
+57</manifest>
